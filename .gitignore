@@ -1,0 +1,4 @@
+*.pyc
+**/node_modules
+VENV
+npm-debug.log
