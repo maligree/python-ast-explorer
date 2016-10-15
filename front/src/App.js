@@ -76,6 +76,13 @@ class App extends Component {
         <div className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <h1>Python AST explorer</h1>
+          <div style={{marginBottom:20,textAlign:'center'}}>
+            <div style={{display:'inline-block'}}>
+            <iframe src="https://ghbtns.com/github-btn.html?user=exana&repo=python-ast-explorer&type=star&count=true" frameBorder="0" scrolling="0" width="90px" height="20px"></iframe>
+            <iframe src="https://ghbtns.com/github-btn.html?user=exana&repo=python-ast-explorer&type=fork&count=true" frameBorder="0" scrolling="0" width="90px" height="20px"></iframe>
+            <iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Ffacebook.com%2Fexana.io&width=450&layout=standard&action=like&size=small&show_faces=false&share=true&height=80&appId=1597939180472331" width="100" height="20" style={{border:'none',overflow:'hidden'}} scrolling="no" frameBorder="0" allowTransparency="true"></iframe>
+            </div>
+          </div>
         </div>
 
         <div style={{fontSize:14,fontFamily:'courier',marginTop:10,marginBottom:7}}>
