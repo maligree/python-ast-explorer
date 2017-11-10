@@ -71,6 +71,10 @@ h1 {
     background: rgb(224, 255, 255);
 }
 
+#righty ul {
+    background-color: inherit;
+}
+
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
