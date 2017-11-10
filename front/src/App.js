@@ -125,7 +125,8 @@ class App extends Component {
 
           Want to suggest something? See <a href="https://github.com/exana/python-ast-explorer">GitHub</a> or hit <a href="mailto:hi@exana.io">hi@exana.io</a>, we're listening.<br/><br/>
          Hacked up by some random chap from <a href="https://exana.io">exana.io</a>. Very much inspired by <a style={{color:'#4b4b4b'}} href="https://astexplorer.net">astexplorer.net</a>, thank you!<br/>
-        By the way, we <a href="https://exana.io/phabricator">Host Phabricator</a>, <a href="https://exana.io/statuspage">Free Status Pages</a>, <a href="https://exana.io/monitoring">Monitor Servers</a> and - soon - <a href="https://exana.io/buildbot">provide Buildbot Infrastructure</a>. Come visit?
+        By the way, we <a href="https://exana.io/phabricator">Host Phabricator</a>, <a href="https://exana.io/statuspage">Free Status Pages</a>, <a href="https://exana.io/monitoring">Monitor Servers</a>.  Come visit?
+      <p>Be sure to check out <a href="https://hackattic.com">hackattic - no nonsense, real-world challenges</a> as well.</p>
         </div>
       </div>
     );
