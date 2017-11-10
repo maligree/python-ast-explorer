@@ -72,7 +72,7 @@ h1 {
 }
 
 #righty ul {
-    background-color: inherit;
+    background-color: inherit !important;
 }
 
 @keyframes App-logo-spin {
