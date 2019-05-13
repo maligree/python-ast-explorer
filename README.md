@@ -13,3 +13,9 @@ Run:
 $ docker build -t aster27 .
 $ docker run --rm -it -p 4361:4361 aster27
 ```
+
+Python 3.7.3:
+```bash
+$ docker build -t aster373 -f Dockerfile.py37 .
+$ docker run --rm -it -p 4362:4361 aster373
+```
