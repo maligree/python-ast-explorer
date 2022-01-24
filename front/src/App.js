@@ -78,9 +78,8 @@ class App extends Component {
           <h1>Python AST explorer</h1>
           <div style={{marginBottom:20,textAlign:'center'}}>
             <div style={{display:'inline-block'}}>
-            <iframe src="https://ghbtns.com/github-btn.html?user=exana&repo=python-ast-explorer&type=star&count=true" frameBorder="0" scrolling="0" width="90px" height="20px"></iframe>
-            <iframe src="https://ghbtns.com/github-btn.html?user=exana&repo=python-ast-explorer&type=fork&count=true" frameBorder="0" scrolling="0" width="90px" height="20px"></iframe>
-            <iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Ffacebook.com%2Fexana.io&width=450&layout=standard&action=like&size=small&show_faces=false&share=true&height=80&appId=1597939180472331" width="100" height="20" style={{border:'none',overflow:'hidden'}} scrolling="no" frameBorder="0" allowTransparency="true"></iframe>
+            <iframe src="https://ghbtns.com/github-btn.html?user=maligree&repo=python-ast-explorer&type=star&count=true" frameBorder="0" scrolling="0" width="90px" height="20px"></iframe>
+            <iframe src="https://ghbtns.com/github-btn.html?user=maligree&repo=python-ast-explorer&type=fork&count=true" frameBorder="0" scrolling="0" width="90px" height="20px"></iframe>
             </div>
           </div>
         </div>
@@ -116,17 +115,12 @@ class App extends Component {
         <div className='footer'>
 
           <div style={{marginBottom:20}}>
-          <iframe src="https://ghbtns.com/github-btn.html?user=exana&repo=python-ast-explorer&type=star&count=true" frameBorder="0" scrolling="0" width="90px" height="20px"></iframe>
-          <iframe src="https://ghbtns.com/github-btn.html?user=exana&repo=python-ast-explorer&type=fork&count=true" frameBorder="0" scrolling="0" width="90px" height="20px"></iframe>
+          <iframe src="https://ghbtns.com/github-btn.html?user=maligree&repo=python-ast-explorer&type=star&count=true" frameBorder="0" scrolling="0" width="90px" height="20px"></iframe>
+          <iframe src="https://ghbtns.com/github-btn.html?user=maligree&repo=python-ast-explorer&type=fork&count=true" frameBorder="0" scrolling="0" width="90px" height="20px"></iframe>
           </div>
-
-          <iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Ffacebook.com%2Fexana.io&width=450&layout=standard&action=like&size=small&show_faces=true&share=true&height=80&appId=1597939180472331" width="450" height="80" style={{border:'none',overflow:'hidden'}} scrolling="no" frameBorder="0" allowTransparency="true"></iframe><br/>
-
-
-          Want to suggest something? See <a href="https://github.com/exana/python-ast-explorer">GitHub</a> or hit <a href="mailto:hi@exana.io">hi@exana.io</a>, we're listening.<br/><br/>
-         Hacked up by some random chap from <a href="https://exana.io">exana.io</a>. Very much inspired by <a style={{color:'#4b4b4b'}} href="https://astexplorer.net">astexplorer.net</a>, thank you!<br/>
-        By the way, we <a href="https://exana.io/phabricator">Host Phabricator</a>, <a href="https://exana.io/statuspage">Free Status Pages</a>, <a href="https://exana.io/monitoring">Monitor Servers</a>.  Come visit?
-      <p>Be sure to check out <a href="https://hackattic.com">hackattic - no nonsense, real-world challenges</a> as well.</p>
+          <p>Be sure to check out <a href="https://hackattic.com">hackattic - no nonsense, real-world challenges</a> as well.</p>
+          <p>Motorsports fan, by any chance? Take a look at a <a href="https://whenvroom.com">motorsports calendar</a> I'm developing.</p>
+          <p><a href="https://whenvroom.com/calendar/2021/imsa-weathertech">IMSA WeatherTech 2021 Calendar</a>, <a href="https://whenvroom.com/calendar/2021/adac-gt-masters">ADAC GT Masters 2021 Calendar</a></p>
         </div>
       </div>
     );
